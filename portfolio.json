@@ -16,13 +16,13 @@
       "svg_path": "img/globe.svg"
     },
     {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "LinkedIN",
+      "url": "https://www.linkedin.com/in/yunus-emre-baytekin-49671469",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "GitHub",
+      "url": "https://github.com/yebaytekin",
       "svg_path": "img/github.svg"
     }
   ],
