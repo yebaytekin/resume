@@ -5,9 +5,9 @@
   "contact": {
     "email": "yebaytekin@yahoo.com",
     "phone": "+90-533-6507186",
-    "location": "City, State, Country"
+    "location": "Konak,Izmir / Sancaktepe,Istanbul - TURKEY"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "Certified Project Manager and Scrum Master with 18 years of experience in automotive OEM, Tier 1-2 manufacturing and software companies, with a background in Project Management Office (PMO), quality assurance and design verification. Proven ability to lead and deliver complex engineering R&D, new product launch and facility investment projects from initiation to closure phases",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -28,12 +28,11 @@
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present job and what the position entails",
+      "company": "Eatron Technologies",
+      "position": "Senior Project Manager",
+      "start_date": "09/2022",
+      "end_date": "10/2025",
+      "summary": "Running project management activities for multiple Battery Management System and algorithm / software development projects",
       "highlights": [
         "First Duty of Current Job",
         "Second Duty of Current Job",
@@ -41,12 +40,23 @@
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous job and what that position entailed",
+      "company": "Eldor Corporation",
+      "position": "Chief Engineer - Project Management Office",
+      "start_date": "09/2021",
+      "end_date": "09/2022",
+      "summary": "Leading the Project Management Office and coordinating new product launch projects across multiple departments and teams",
+      "highlights": [
+        "First Duty of Previous Job",
+        "Second Duty of Previous Job",
+        "Third Duty of Previous Job"
+      ]
+    },
+        {
+      "company": "Ford Otosan",
+      "position": "Chapter Lead, Product Development - Vehicle Evaluation and Verification, ",
+      "start_date": "03/2021",
+      "end_date": "09/2021",
+      "summary": "Leading a group of specialists from cross-functional disciplines in Heavy Commercial Vehicle business unit",
       "highlights": [
         "First Duty of Previous Job",
         "Second Duty of Previous Job",
