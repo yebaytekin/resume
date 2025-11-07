@@ -144,27 +144,23 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
+      "institution": "Bogazici University",
+      "location": "Istanbul, TURKEY",
       "url": "https://sample.com",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Master of Science in Automotive Engineering"
+      
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
+
+      "graduation_date": "06/2006"
     },
     {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
+      "institution": "Bogazici University",
+      "location": "Istanbul, TURKEY",
       "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "degrees": ["Bachelor of Science in Mechanical Engineering"],
+
+      "graduation_date": "07/2009"
     }
   ],
   "skills": [
@@ -181,7 +177,7 @@
   ],
   "interests": [
     {
-      "name": "My First Hobby",
+      "name": "Running",
       "summary": "Short summary about my first Hobby",
       "images": [
         {
@@ -195,7 +191,7 @@
       ]
     },
     {
-      "name": "My Second Hobby",
+      "name": "Chess",
       "summary": "Short summary about my second hobby",
       "images": [
         {
@@ -211,11 +207,11 @@
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Turkish",
       "fluency": "Native speaker"
     },
     {
-      "language": "American Sign Language",
+      "language": "English",
       "fluency": "Professional Working Proficiency"
     }
   ],
