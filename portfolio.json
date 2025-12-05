@@ -38,12 +38,6 @@
         "Managed internal & external stakeholders communication (customers, 6 suppliers from EU, US, China) and project deliverables using agile and waterfall methodologies, tracking resource allocation, mitigating risks",
         "Prepared and compiled key project documents (budget estimates, project charter, deliverables, schedules, release notes) during RFQ - request for quotation -, and throughout project life cycle",
         "Led MAN.3 (project management) & SUP.8 (configuration management) workstreams as per ASPICE"
-      ],
-      "Projects Delivered": [
-        "Battery Management System (Hardware + Software) 12V Lithium Powernet LFP Battery, B-sample for European OEM customer",
-        "Improvement of 12V BMS (refinement of HW design and cost optimization) as per internal stakeholder requirements",
-        "Design and HiL Validation of 48V Battery Management System for motorcycles and micro mobility, A-sample for European light mobility consortium",
-        "Software adaptation to Battery Energy Storage System : Feasibility investigation, optimization and integration of the State of Health feature of BMS software to the customer hardware"
       ]
     },
     {
@@ -51,7 +45,20 @@
       "position": "Chief Engineer - Project Management Office",
       "start_date": "09/2021",
       "end_date": "09/2022",
-      "summary": "Leading the Project Management Office and coordinating new product launch projects across multiple departments and teams",
+      "summary": "Led the Project Management Office and coordinated new product launch projects across multiple departments and teams",
+      "highlights": [
+        "(Direct report to the General Manager) Developed and implemented project governance strategies and policies such as standardized project work packages (i.e tool validation workflow), dashboard improvements, enhancing the company-wide project management practices",
+        "Acted as project leader and single point of customer contact in new product launch projects for European OEMs/Tier-1’s by leading tool try out, run at rate scheduling, procurement planning, risk & issue management ",
+        "Ensured adherence to Advanced Product Quality Planning (APQP) and Production Part Approval Process (PPAP)within the IATF 16949 framework for all new product launches ",
+        "Provided coaching and guidance to the two project leaders reporting to him"
+      ]
+    },
+    {
+      "company": "Ford Otosan",
+      "position": "Chapter Lead, Product Development - Vehicle Evaluation and Verification, ",
+      "start_date": "03/2021",
+      "end_date": "09/2021",
+      "summary": "Led a group of specialists from cross-functional disciplines in Heavy Commercial Vehicle business unit",
       "highlights": [
         "First Duty of Previous Job",
         "Second Duty of Previous Job",
@@ -60,10 +67,10 @@
     },
     {
       "company": "Ford Otosan",
-      "position": "Chapter Lead, Product Development - Vehicle Evaluation and Verification, ",
-      "start_date": "03/2021",
-      "end_date": "09/2021",
-      "summary": "Leading a group of specialists from cross-functional disciplines in Heavy Commercial Vehicle business unit",
+      "position": "Supervisor, Product Development - Vehicle & Systems Testing",
+      "start_date": "10/2011",
+      "end_date": "03/2021",
+      "summary": "Planned and executed design verification and validation activities for new vehicle programs in Heavy Commercial Vehicle business unit",
       "highlights": [
         "First Duty of Previous Job",
         "Second Duty of Previous Job",
@@ -71,15 +78,16 @@
       ]
     }
   ],
-  "projects": [
+  "Projects Managed / Delivered": [
     {
-      "title": "My First Project",
+      "title": "Eatron Technologies",
       "summary": "Short summary about my first project",
       "url": "https://sample.com",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "12V Lithium Powernet LFP Battery Management System (Hardware + Software) : B-sample for European OEM",
+        "2nd phase of 12V BMS (platform) : Improvement and refinement of HW design + cost optimization",
+        "Design and HiL Validation of 48V Battery Management System : A-sample for European light mobility consortium",
+        "Software adaptation to Battery Energy Storage System : Feasibility investigation, optimization and integration of the State of Health feature of BMS software to the customer hardware"
       ],
       "images": [
         {
