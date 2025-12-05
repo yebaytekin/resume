@@ -7,7 +7,7 @@
     "phone": "+90-533-6507186",
     "location": "Konak,Izmir / Sancaktepe,Istanbul - TURKEY"
   },
-  "summary": "Certified Project Manager and Scrum Master with 18 years of experience in automotive OEM, Tier 1-2 manufacturing and software companies, with a background in Project Management Office (PMO), quality assurance and design verification. Proven ability to lead and deliver complex engineering R&D, new product launch and facility investment projects from initiation to closure phases",
+  "summary": "Certified Project Manager, Scrum Master and Power BI Data Analyst with 18 years of experience in automotive OEM, Tier 1-2 manufacturing and software companies, with a background in Project Management Office (PMO), quality assurance and design verification. Proven ability to lead and deliver complex engineering R&D, new product launch and facility investment projects from initiation to closure phases",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -34,9 +34,16 @@
       "end_date": "10/2025",
       "summary": "Running project management activities for multiple Battery Management System and algorithm / software development projects",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+        "Led up to 5 cross-functional domains/teams, scrum ceremonies (sprint planning, daily stand-ups etc.) to deliver projects on time and within budget (up to 1.6 M £), ensuring alignment with quality standards and stakeholder expectations",
+        "Managed internal & external stakeholders communication (customers, 6 suppliers from EU, US, China) and project deliverables using agile and waterfall methodologies, tracking resource allocation, mitigating risks",
+        "Prepared and compiled key project documents (budget estimates, project charter, deliverables, schedules, release notes) during RFQ - request for quotation -, and throughout project life cycle",
+        "Led MAN.3 (project management) & SUP.8 (configuration management) workstreams as per ASPICE"
+      ],
+      "Projects Delivered": [
+        "Battery Management System (Hardware + Software) 12V Lithium Powernet LFP Battery, B-sample for European OEM customer",
+        "Improvement of 12V BMS (refinement of HW design and cost optimization) as per internal stakeholder requirements",
+        "Design and HiL Validation of 48V Battery Management System for motorcycles and micro mobility, A-sample for European light mobility consortium",
+        "Software adaptation to Battery Energy Storage System : Feasibility investigation, optimization and integration of the State of Health feature of BMS software to the customer hardware"
       ]
     },
     {
@@ -51,7 +58,7 @@
         "Third Duty of Previous Job"
       ]
     },
-        {
+    {
       "company": "Ford Otosan",
       "position": "Chapter Lead, Product Development - Vehicle Evaluation and Verification, ",
       "start_date": "03/2021",
@@ -149,17 +156,16 @@
       "url": "https://sample.com",
       "degrees": [
         "Master of Science in Automotive Engineering"
-      
       ],
-
       "graduation_date": "06/2006"
     },
     {
       "institution": "Bogazici University",
       "location": "Istanbul, TURKEY",
       "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Mechanical Engineering"],
-
+      "degrees": [
+        "Bachelor of Science in Mechanical Engineering"
+      ],
       "graduation_date": "07/2009"
     }
   ],
